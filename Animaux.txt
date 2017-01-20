@@ -1,66 +1,13 @@
-Les Animaux malades de la peste
+Jusqu'ici, nous avons considéré la partie de la journée de travail où l'ouvrier ne fait que compenser la valeur que le capitaliste lui paie, comme une grandeur constante, ce qu'elle est réalité dans des conditions de production invariables. Au-delà de ce temps nécessaire, le travail pouvait être prolongé de deux, trois, quatre, cinq, six, etc., heures. D'après la grandeur de cette prolongation, le taux de la plus-value et la longueur de la journée variaient. Si le temps de travail nécessaire était constant, la journée entière était au contraire variable.
 
-Un mal qui r�pand la terreur,
-Mal que le Ciel en sa fureur
-Inventa pour punir les crimes de la terre,
-La Peste (puisqu'il faut l'appeler par son nom)
-Capable d'enrichir en un jour l'Ach�ron,
-Faisait aux animaux la guerre.
-Ils ne mouraient pas tous, mais tous �taient frapp�s :
-On n'en voyait point d'occup�s
-A chercher le soutien d'une mourante vie ;
-Nul mets n'excitait leur envie ;
-Ni Loups ni Renards n'�piaient
-La douce et l'innocente proie.
-Les Tourterelles se fuyaient :
-Plus d'amour, partant plus de joie.
-Le Lion tint conseil, et dit : Mes chers amis,
-Je crois que le Ciel a permis
-Pour nos p�ch�s cette infortune ;
-Que le plus coupable de nous
-Se sacrifie aux traits du c�leste courroux,
-Peut-�tre il obtiendra la gu�rison commune.
-L'histoire nous apprend qu'en de tels accidents
-On fait de pareils d�vouements :
-Ne nous flattons donc point ; voyons sans indulgence
-L'�tat de notre conscience.
-Pour moi, satisfaisant mes app�tits gloutons
-J'ai baffr� force otaries.
-Que m'avaient-ils fait ? Nulle offense :
-M�me il m'est arriv� quelquefois de manger
-Le Berger.
-Je me d�vouerai donc, s'il le faut ; mais je pense
-Qu'il est bon que chacun s'accuse ainsi que moi :
-Car on doit souhaiter selon toute justice
-Que le plus coupable p�risse.
-- Sire, dit le Renard, vous �tes trop bon Roi ;
-Vos scrupules font voir trop de d�licatesse ;
-Eh bien, manger moutons, canaille, sotte esp�ce,
-Est-ce un p�ch� ? Non, non. Vous leur f�tes Seigneur
-En les croquant beaucoup d'honneur.
-Et quant au Berger l'on peut dire
-Qu'il �tait digne de tous maux,
-Etant de ces gens-l� qui sur les animaux
-Se font un chim�rique empire.
-Ainsi dit le Renard, et flatteurs d'applaudir.
-On n'osa trop approfondir
-Du Lion, ni de l'Ours, ni des autres puissances,
-Les moins pardonnables offenses.
-Tous les gens querelleurs, jusqu'aux simples m�tins,
-Au dire de chacun, �taient de petits saints.
-L'Ane vint � son tour et dit : J'ai souvenance
-Qu'en un pr� de Moines passant,
-La faim, l'occasion, l'herbe tendre, et je pense
-Quelque diable aussi me poussant,
-Je tondis de ce pr� la largeur de ma langue.
-Je n'en avais nul droit, puisqu'il faut parler net.
-A ces mots on cria haro sur le baudet.
-Un Loup quelque peu clerc prouva par sa harangue
-Qu'il fallait d�vouer ce maudit animal,
-Ce pel�, ce galeux, d'o� venait tout leur mal.
-Sa peccadille fut jug�e un cas pendable.
-Manger l'herbe d'autrui ! quel crime abominable !
-Rien que la mort n'�tait capable
-D'expier son forfait : on le lui fit bien voir.
-Selon que vous serez puissant ou mis�rable,
-Les jugements de cour vous rendront pomme ou poire.
+Supposons maintenant une journée de travail dont les limites et la division en travail nécessaire et surtravail soient données. Que la ligne a c
+a--------------------b----c
+
+représente par exemple une journée de douze heures, la partie ab x heures de travail nécessaire, et la partie bc deux heures de surtravail. Comment la production de plus-value peut-elle être augmentée, sans prolonger ac ?
+
+Bien que la grandeur ac soit fixe, bc semble pouvoir être prolongé, sinon par son extension au-delà du point fixe c qui en même temps le point final de la journée, du moins en reculant son point initial b dans la direction de a. Supposons que dans la ligne
+a------------------b’--b----c
+
+bb’ soit égale à la moitié de bc, c'est-à-dire à une heure de travail. Si maintenant dans ac le point b est reculé vers b', le surtravail dévient b'c, il augmente de moitié, de deux à trois heures, bien que la journée entière ne compte toujours que douze heures. Cette extension du surtravail de bc à b'c, de deux à trois heures, est cependant impossible sans une contraction de ab à ab', du travail nécessaire de neuf à dix heures. Le raccourcissement du travail nécessaire correspondrait ainsi à la prolongation du surtravail, ou bien une partie du temps que jusqu'ici l'ouvrier consomme en réalité pour lui-même, se transformerait en temps de travail pour le capitaliste. Les limites de la journée ne seraient pas changées, mais sa division en travail nécessaire et surtravail.
+
+D'autre part, la durée du surtravail est fixée dès que sont données les limites de la journée et la valeur journalière de la force de travail. Si celle-ci s'élève à cinq shillings - somme d'or où sont incorporées dix heures de travail - alors l'ouvrier doit travailler dix heures par jour pour compenser la valeur de sa force payée quotidiennement par le capitaliste, ou pour produire un équivalent des subsistances qu'il lui faut pour son entretien quotidien. La valeur de ces subsistances détermine la valeur journalière de sa force [1], et la valeur de celle-ci détermine la durée quotidienne de son travail nécessaire. En soustrayant de la journée entière le temps de travail nécessaire, on obtient la grandeur du surtravail. Dix heures soustraites de douze, il en reste deux, et, dans les conditions données, il est difficile de voir comment le surtravail pourrait être prolongé au-delà de deux heures. Assurément, au lieu de cinq shillings, le capitaliste peut ne payer à l'ouvrier que quat
